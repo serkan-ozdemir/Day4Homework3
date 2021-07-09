@@ -1,4 +1,4 @@
-package Adaptors;
+package Adapters;
 
 import Abstract.UserCheckService;
 import Entities.User;
